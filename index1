@@ -2,9 +2,26 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8">
-            <title></title>
+            <title>Project</title>
     </head>
 <body>
+
+    <!---code--->
+
+<div class="sidebar">
+    <div class="sidebar_title">Боковое меню</div>
+<ul class="sidebar__list">
+    <li class="sidebar__item"></li>
+    <li class="sidebar__item"></li>
+    <li class="sidebar__item"></li>
+    <li class="sidebar__item"></li>
+    <li class="sidebar__item"></li>
+    <li class="sidebar__item"></li>
+    <li class="sidebar__item"></li>
+</ul>
+
+</div>
+
+
 </body>
 </html>
-    
